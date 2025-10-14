@@ -10,6 +10,7 @@ Description : Have you ever wanted to play an old retro style space game? Well h
 
 
 Coming Soon: Animated Sprites!
+
 *[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/readme.md)
 
 *[Mac App]()
