@@ -4,7 +4,9 @@
 
 ### Space Space Shooter | 2025
 
-![Space Space Shooter](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/spaceGame.png?raw=true)
+![Space Space Shooter Start Screen](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/SpaceGameStart.png?raw=true)
+![Space Space Shooter Game]()
+![Space Space Shooter Over Screen]()
 
 Description : Do you too have some nostalgia for the old space shooter games like space invaders or asteroids? Well here you have something similar but new! Space Space Shooter is an asthetically pleasing game with a catchy name. It's fully functional and has many different features such as sound, powerups and coming soon, operational animated sprites! Available for:
 
