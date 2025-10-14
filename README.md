@@ -14,10 +14,6 @@ Description : Do you too have some nostalgia for the old space shooter games lik
 
 *[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/readme.md)
 
-*[Mac App]()
-
-*[Linux Executable]()
-
 *[Source Code]()
 
 ### Calculator | 2025
@@ -26,10 +22,6 @@ Description : Do you too have some nostalgia for the old space shooter games lik
 
 Description : Have you ever wanted a colorful and simple calculator for some of your most basic math problems? Here's a functional, colorful GUI-based calculator with simple and some scientific calculation powers. It was written in processing and is available for :
 
-*[Windows EXE]()
-
-*[Mac App]()
-
-*[Linux Executable]()
+*[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/calc/windows-amd64.zip)
 
 *[Source Code]()
