@@ -4,7 +4,7 @@
 
 ### Space Space Shooter
 
-![Space Space Shooter]("spaceGame.png")
+![Space Space Shooter](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/spaceGame.png?raw=true)
 
 Description : Have you ever wanted to play an old retro style space game? Well here's Space Space Shooter!
 
