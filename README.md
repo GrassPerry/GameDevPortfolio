@@ -12,9 +12,13 @@ Description : Do you too have some nostalgia for the old space shooter games lik
 
 
 
-*[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/readme.md)
+*[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/windows-amd64.zip)
 
-*[Source Code]()
+*[MacOS Apple Silicon](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/macos-aarch64.zip)
+
+*[MacOS Intel 64-bit](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/macos-x86_64.zip)
+
+*[Source Code](https://github.com/GrassPerry/GameDevPortfolio/tree/main/src/SpaceGame/SpaceGame)
 
 ### Calculator | 2025
 
@@ -28,4 +32,4 @@ Description : Have you ever wanted a colorful and simple calculator for some of 
 
 *[MacOS Intel 64-bit](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/calc/macos-x86_64.zip)
 
-*[Source Code]()
+*[Source Code](https://github.com/GrassPerry/GameDevPortfolio/tree/main/src/calc/Calculator)
