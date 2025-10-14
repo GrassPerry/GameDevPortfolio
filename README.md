@@ -1,4 +1,4 @@
-# Grace Perry's Game Dev Portfolio
+# Grace Perry's Game Dev and Computer Programming Portfolio
 
 ## 2026|Term 1 Projects
 
@@ -18,3 +18,5 @@ Coming Soon: Animated Sprites!
 *[Linux Executable]()
 
 *[Source Code]()
+
+### Calculator
