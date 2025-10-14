@@ -2,7 +2,7 @@
 
 ## 2026|Term 1 Projects
 
-### Space Space Shooter
+### Space Space Shooter | October 14 2025
 
 ![Space Space Shooter](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/spaceGame.png?raw=true)
 
@@ -19,7 +19,7 @@ Coming Soon: Animated Sprites!
 
 *[Source Code]()
 
-### Calculator
+### Calculator | October 14 2025
 
 ![Calculator](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/calculator.png?raw=true)
 
