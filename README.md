@@ -24,4 +24,8 @@ Description : Have you ever wanted a colorful and simple calculator for some of 
 
 *[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/calc/windows-amd64.zip)
 
+*[MacOS Apple Silicon](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/calc/macos-aarch64.zip)
+
+*[MacOS Intel 64-bit](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/calc/macos-x86_64.zip)
+
 *[Source Code]()
