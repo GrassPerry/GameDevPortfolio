@@ -2,14 +2,13 @@
 
 ## 2026|Term 1 Projects
 
-### Space Space Shooter | October 14 2025
+### Space Space Shooter | 2025
 
 ![Space Space Shooter](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/spaceGame.png?raw=true)
 
-Description : Have you ever wanted to play an old retro style space game? Well here's Space Space Shooter!
+Description : Do you too have some nostalgia for the old space shooter games like space invaders or asteroids? Well here you have something similar but new! Space Space Shooter is an asthetically pleasing game with a catchy name. It's fully functional and has many different features such as sound, powerups and coming soon, operational animated sprites! Available for:
 
 
-Coming Soon: Animated Sprites!
 
 *[Windows EXE](https://github.com/GrassPerry/GameDevPortfolio/blob/main/src/SpaceGame/readme.md)
 
@@ -19,11 +18,11 @@ Coming Soon: Animated Sprites!
 
 *[Source Code]()
 
-### Calculator | October 14 2025
+### Calculator | 2025
 
 ![Calculator](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/calculator.png?raw=true)
 
-Description :
+Description : Have you ever wanted a colorful and simple calculator for some of your most basic math problems? Here's a functional, colorful GUI-based calculator with simple and some scientific calculation powers. It was written in processing and is available for :
 
 *[Windows EXE]()
 
