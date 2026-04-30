@@ -34,6 +34,10 @@ Description : Have you ever wanted a colorful and simple calculator for some of 
 
 ### *Let Loose* 
 
+![Gorp](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/bigGorp.gif?raw=true)
+![PurpleGuy(not the fnaf one)](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/Runguybig.gif?raw=true)
+![LetLoose Logo](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/letlooseTEMP.png?raw=true)
+
 Description: 
 "LET LOOSE" is a metroidvania-shooter with horror game aspects, and engaging environments inspired by games like "Deadcells" and "CARRION". It's a fun story abot you trying to escape the factory by going further and further up through the factory. 
 
