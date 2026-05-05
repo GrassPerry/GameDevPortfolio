@@ -58,10 +58,8 @@ I'm on sound design, the player class and the button class. Currently most of my
 
 ### *VN-Horror-Game(Name in the works)*
 
-<!DOCTYPE html>
-<html>
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <!-- Indicators -->
+
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -72,7 +70,6 @@ I'm on sound design, the player class and the button class. Currently most of my
     <li data-target="#myCarousel" data-slide-to="6"></li>
   </ol>
 
-  <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
       <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Silhouette.png?raw=true" width="200" height="324"> alt="Jazz Character">
@@ -81,21 +78,21 @@ I'm on sound design, the player class and the button class. Currently most of my
       </div>
     </div>
 
-    <div class="item">
+  <div class="item">
       <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Crying-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Ghost.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Silhouette.png?raw=true" height="324">  alt="Mil">
       <div class="carousel-caption">
         <h3>Mil</h3>
       </div>
     </div>
 
-    <div class="item">
+   <div class="item">
       <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Silhouette.png?raw=true" width= "200" height="324"> alt="Sel">
       <div class="carousel-caption">
         <h3>Sel</h3>
       </div>
     </div>
     
-        <div class="item">
+  <div class="item">
       <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Silhouette%20.png?raw=true" width= "200" height="324"> alt="Bex">
       <div class="carousel-caption">
         <h3>Bex</h3>
@@ -103,7 +100,7 @@ I'm on sound design, the player class and the button class. Currently most of my
     </div>
 
   
-      <div class="item">
+  <div class="item">
       <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-PShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-SShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Silhouette%20.png?raw=true" width="200" height="324"> alt="Vic">
       <div class="carousel-caption">
         <h3>Vic</h3>
@@ -112,7 +109,7 @@ I'm on sound design, the player class and the button class. Currently most of my
     
     
     
-          <div class="item">
+  <div class="item">
       <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Talking-Pose.png?raw=true" width= "200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Silhouette.png?raw=true" width= "200" height="324"> alt="Q">
       <div class="carousel-caption">
         <h3>Q</h3>
@@ -120,7 +117,6 @@ I'm on sound design, the player class and the button class. Currently most of my
     </div>
   </div>
 
-  <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left"></span>
     <span class="sr-only">Previous</span>
@@ -130,7 +126,6 @@ I'm on sound design, the player class and the button class. Currently most of my
     <span class="sr-only">Next</span>
   </a>
 </div>
-</html>
 
 
 This game is a personal project. It's based in a world where the apocalypse has started merely a week or so ago you get randomly put in charge of a group who's main goal is to now make it to an area rumored to be safe of zombies. Your goal is to make it there with as few casulties as possible. As you progress you bond with more of the group, giving you an even further reason to protect them. So, will you make it with most of them alive or end up succumbing to the darkness of death. Your choice.
