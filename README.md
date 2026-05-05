@@ -54,8 +54,12 @@ I'm on sound design, the player class and the button class. Currently most of my
 
 *[Actual Repo](https://github.com/CreativeCha0s/CreativeGlory)
 
-### *VN-Horror-Game(Name pending)*
+### *VN-Horror-Game(Name in the works)*
 
 This game is a personal project. It's based in a world where the apocalypse has started merely a week or so ago you get randomly put in charge of a group who's main goal is to now make it to an area rumored to be safe of zombies. Your goal is to make it there with as few casulties as possible. As you progress you bond with more of the group, giving you an even further reason to protect them. So, will you make it with most of them alive or end up succumbing to the darkness of death. Your choice.
 
 *[Actual Repo](https://github.com/GrassPerry/VN-Horror-Game/tree/main)
+
+### *Torture the Hanging Man*
+
+A fun spin-off of the classic hangman game where instead of each answer saving the hanging man, each answer takes off another on of his limbs. Simple game with simple mechanics but a still entertaining twist with fun graphics. 
