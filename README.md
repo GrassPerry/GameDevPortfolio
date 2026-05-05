@@ -2,6 +2,8 @@
 
 ## 2026|Term 1 Projects
 
+## I do have an actually decent repo too, it's on my home computer though so I just needed to submit something
+
 ### *Space Space Shooter* | 2025
 
 ![Space Space Shooter Start Screen](https://github.com/GrassPerry/GameDevPortfolio/blob/main/images/SpaceGameStart.png?raw=true)
@@ -56,10 +58,89 @@ I'm on sound design, the player class and the button class. Currently most of my
 
 ### *VN-Horror-Game(Name in the works)*
 
+<!DOCTYPE html>
+<html>
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+    <li data-target="#myCarousel" data-slide-to="4"></li>
+    <li data-target="#myCarousel" data-slide-to="5"></li>
+    <li data-target="#myCarousel" data-slide-to="6"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Char-Base-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-TalkingPose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Death-Ghost.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Jazz/Jazz-Silhouette.png?raw=true" width="200" height="324"> alt="Jazz Character">
+      <div class="carousel-caption">
+        <h3>Jazz</h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Char-EC.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Crying-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Ghost.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Mil/Mil-Silhouette.png?raw=true" height="324">  alt="Mil">
+      <div class="carousel-caption">
+        <h3>Mil</h3>
+      </div>
+    </div>
+
+    <div class="item">
+      <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Sel/Sel-Silhouette.png?raw=true" width= "200" height="324"> alt="Sel">
+      <div class="carousel-caption">
+        <h3>Sel</h3>
+      </div>
+    </div>
+    
+        <div class="item">
+      <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Bex/Bex-Silhouette%20.png?raw=true" width= "200" height="324"> alt="Bex">
+      <div class="carousel-caption">
+        <h3>Bex</h3>
+      </div>
+    </div>
+
+  
+      <div class="item">
+      <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Char-Base.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Talking-Pose.png?raw=true" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Wounded.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-PShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Death-SShoot.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Vic/Vic-Silhouette%20.png?raw=true" width="200" height="324"> alt="Vic">
+      <div class="carousel-caption">
+        <h3>Vic</h3>
+      </div>
+    </div>
+    
+    
+    
+          <div class="item">
+      <<img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Base-Pose.png?raw=true" width="200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Talking-Pose.png?raw=true" width= "200" height="324"> <img src="https://github.com/GrassPerry/VN-Horror-Game/blob/main/Assets/Art/Sprites/CharactersGameDev/CharactersGameDev/Q/Q-Silhouette.png?raw=true" width= "200" height="324"> alt="Q">
+      <div class="carousel-caption">
+        <h3>Q</h3>
+      </div>
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</html>
+
+
 This game is a personal project. It's based in a world where the apocalypse has started merely a week or so ago you get randomly put in charge of a group who's main goal is to now make it to an area rumored to be safe of zombies. Your goal is to make it there with as few casulties as possible. As you progress you bond with more of the group, giving you an even further reason to protect them. So, will you make it with most of them alive or end up succumbing to the darkness of death. Your choice.
 
 *[Actual Repo](https://github.com/GrassPerry/VN-Horror-Game/tree/main)
 
 ### *Torture the Hanging Man*
 
+photo of the hanging man all together
+
 A fun spin-off of the classic hangman game where instead of each answer saving the hanging man, each answer takes off another on of his limbs. Simple game with simple mechanics but a still entertaining twist with fun graphics. 
+
+*[Actual Repo](https://github.com/GrassPerry/CompGame2)
